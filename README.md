@@ -8,4 +8,5 @@ The application displays the current temperature in the capital city, inluding a
 
 # APIs used:
 https://restcountries.com/v3.1/
+ & 
 http://api.openweathermap.org/data/2.5/
